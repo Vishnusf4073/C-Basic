@@ -1,0 +1,15 @@
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.csproj.AssemblyReference.cache
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.AssemblyInfoInputs.cache
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.AssemblyInfo.cs
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.csproj.CoreCompileInputs.cache
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\bin\Debug\net6.0\question6.exe
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\bin\Debug\net6.0\question6.deps.json
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\bin\Debug\net6.0\question6.runtimeconfig.json
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\bin\Debug\net6.0\question6.dll
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\bin\Debug\net6.0\question6.pdb
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.dll
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\refint\question6.dll
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.pdb
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\question6.genruntimeconfig.cache
+D:\Vishnu vardhan\C#\home_assignment\C# home_assignment_dec_8th_2022\ForLoop\question6\obj\Debug\net6.0\ref\question6.dll
